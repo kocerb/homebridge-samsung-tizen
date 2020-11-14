@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-samsung-tizen",
-  "version": "4.3.3",
-  "description": "Samsung TV plugin for Homebridge",
+  "name": "homebridge-samsung-tizen-tu8500",
+  "version": "4.3.3-kocerb",
+  "description": "Samsung TU8500 plugin for Homebridge",
   "main": "index.js",
   "directories": {
     "lib": "lib"
